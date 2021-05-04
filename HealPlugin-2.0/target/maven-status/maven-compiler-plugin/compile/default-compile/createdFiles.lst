@@ -1,0 +1,5 @@
+com\ogwen123\healplugin\commands\Heal.class
+com\ogwen123\healplugin\commands\Hunger.class
+com\ogwen123\healplugin\commands\Health.class
+com\ogwen123\healplugin\commands\HealAll.class
+com\ogwen123\healplugin\HealPlugin.class

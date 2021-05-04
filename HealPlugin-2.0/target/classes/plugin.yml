@@ -1,0 +1,17 @@
+name: HealPlugin
+version: 2.0
+main: com.ogwen123.healplugin.HealPlugin
+api-version: 1.16
+commands:
+  heal:
+    description: heals and sets to full hunger the specified player, if no player is specified it will heal and set full hunger the sender
+    usage: "Usage: /<command> [name]"
+  health:
+    description:  heals specified player, if no player is specified it will heal the sender
+    usage: "Usage: /<command> [name]"
+  hunger:
+    description: give the specified player full hunger
+    usage: "Usage: /<command> [name]"
+  healall:
+    description: will heal all online players
+    usage: "Usage: /<command> [name]"
