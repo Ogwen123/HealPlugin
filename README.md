@@ -1,6 +1,6 @@
 # HealPlugin
-A simple minecraft heal plugin for spigot and paper servers
-Commands:
+A simple minecraft heal plugin for spigot and paper servers\n
+Commands:\n
   heal:
     Usage: /heal <playername> 
     Description: heals and fills hunger for the specified player or heals and fils the hunger for the sender if no player is specified.
